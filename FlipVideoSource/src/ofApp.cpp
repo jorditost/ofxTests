@@ -18,12 +18,6 @@ void ofApp::update() {
 }
 
 void ofApp::draw() {
-	//cam.draw(0, 0);
-    float imgWidth = ofGetScreenWidth();
-    float imgHeight = float(480.0/640.0) * imgWidth;
-    
-	image.draw(0, -0.5*(imgHeight-ofGetScreenHeight()), imgWidth, imgHeight);
-    
-    // to map a circle, for example
-    ofMap
+	cam.draw(0, 0);
+    image.draw(640, 0);
 }

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36DDA985-2DDB-432E-B9C4-0C93430D2F70</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27E8B007-C8E0-4089-9728-CD79B6C093AC</key>
+		<string>https://github.com/jorditost/ofxTests.git</string>
+		<key>AB56FE7C-CF50-43E1-827A-693AA76B7C9B</key>
+		<string>https://github.com/kylemcdonald/ofxCv.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>flipVideoSourceFullScreen/ofApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27E8B007-C8E0-4089-9728-CD79B6C093AC</key>
+		<string>../../..</string>
+		<key>AB56FE7C-CF50-43E1-827A-693AA76B7C9B</key>
+		<string>../../../../../addons/ofxCv</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jorditost/ofxTests.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27E8B007-C8E0-4089-9728-CD79B6C093AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AB56FE7C-CF50-43E1-827A-693AA76B7C9B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxCv</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27E8B007-C8E0-4089-9728-CD79B6C093AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxTests</string>
+		</dict>
+	</array>
+</dict>
+</plist>
